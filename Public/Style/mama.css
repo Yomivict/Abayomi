@@ -1,0 +1,16 @@
+.main-bg{
+    color: white;
+    background-color: gray;
+    font-size: 20px;
+    font-weight: 200;
+    padding: 200px;
+}
+.pits{
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+}
+.pitss{
+    font-size: 15px;
+    font-style: italic;
+}
